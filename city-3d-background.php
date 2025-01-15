@@ -3,7 +3,7 @@
  * Plugin Name: City 3D Background
  * Description: 3D City background with Elementor support
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Alexandr Sharshavin aka a7exsh
  * Text Domain: city-3d-background
  */
 
