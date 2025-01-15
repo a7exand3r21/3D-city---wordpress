@@ -29,6 +29,7 @@ A WordPress plugin that adds a customizable 3D city background widget to Element
 2. Drag the "3D City Background" widget to your page
 3. Customize the appearance using the widget controls
 4. The background will automatically adjust to your container size
+5. The logic of camera control behavior on mobile devices has been rewritten - When running on mobile devices, the 3D scene will be controlled via a gyroscope
 
 ## Customization Options
 
